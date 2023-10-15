@@ -4,7 +4,7 @@
 
 
 
- ### Hi, my name is Andrey
+ ### Hi, my name is Andrey (https://github.com/AnKub/Myresume)
 #### Full-Stack developer
 
 <p align="right">Relatively recently I began to be interested in IT (2 years+), <br> now I can’t imagine an alternative.</p>
