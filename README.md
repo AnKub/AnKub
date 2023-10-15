@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Andrey
 #### Full-Stack developer
-![Full-Stack developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Full-Stack developer]
 
 Relatively recently I began to be interested in IT (2 years+), now I can’t imagine an alternative.
 
