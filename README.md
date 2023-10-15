@@ -44,7 +44,7 @@ Relatively recently I began to be interested in IT (2 years+), <br> now I can’
    <a href="https://t.me/AnKubLXXXVIII" target="_blank">
   <img src="https://img.shields.io/badge/-AnKub-blue?style=flat&logo=Telegram&logoColor=white" alt="AnKub" />
    </a> 
-   <a href="ankub3088@gmail.com" target="_blank">
+   <a href="mailto: ankub3088@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" alt="AnKub" />
    </a> 
 </p>
