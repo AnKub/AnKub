@@ -4,19 +4,17 @@
 
 
 
- ### Hi there 👋, my name is Andrey
+ ### Hi, my name is Andrey
 #### Full-Stack developer
 
-<p align="right">
-Relatively recently I began to be interested in IT (2 years+), <br> now I can’t imagine an alternative.
-</p align="right">
+<p align="right">Relatively recently I began to be interested in IT (2 years+), <br> now I can’t imagine an alternative.</p>
 
 
 
 
-<h2 align="center" color="purple" >Technology Stack <img src="https://github.com/AnKub/AnKub/blob/main/images/laptop.gif"  width="50"></h2>
+<h2 align="center">Technology Stack <img src="https://github.com/AnKub/AnKub/blob/main/images/laptop.gif"  width="40"></h2>
 
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nodejs/nodejs-original.svg" title="NodeJS" **alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -35,16 +33,16 @@ Relatively recently I began to be interested in IT (2 years+), <br> now I can’
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" **alt="Canva" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Adobe Illustrator" **alt="Adobe Illustrator" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" **alt="Mongodb" width="40" height="40"/>&nbsp;
-</div>
+</div align="center">
 
 
-<h2 align="center" color="purple">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="40"></h2>
 
 <p align="center">
    <a href="https://t.me/AnKubLXXXVIII" target="_blank">
   <img src="https://img.shields.io/badge/-AnKub-blue?style=flat&logo=Telegram&logoColor=white" alt="AnKub" />
    </a> 
-   <a href="mailto: ankub3088@gmail.com" target="_blank">
+   <a href="https://ankub3088@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" alt="AnKub" />
    </a> 
 </p>
