@@ -3,10 +3,10 @@
 
 
 
-<p align="center" color="purple">
+
  ### Hi there 👋, my name is Andrey
 #### Full-Stack developer
-</p align="center" >
+
 <p align="right">
 Relatively recently I began to be interested in IT (2 years+), <br> now I can’t imagine an alternative.
 </p align="right">
@@ -14,7 +14,7 @@ Relatively recently I began to be interested in IT (2 years+), <br> now I can’
 
 
 
-<h2 align="center">Technology Stack <img src="https://github.com/AnKub/AnKub/blob/main/images/laptop.gif" color="purple" width="50"></h2>
+<h2 align="center" color="purple" >Technology Stack <img src="https://github.com/AnKub/AnKub/blob/main/images/laptop.gif"  width="50"></h2>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -38,13 +38,13 @@ Relatively recently I began to be interested in IT (2 years+), <br> now I can’
 </div>
 
 
-<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+<h2 align="center" color="purple">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
-[Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AnKubLXXXVIII) [Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ankub3088@gmail.com)
+[Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AnKubLXXXVIII) 
+ <img src= 'https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)(mailto:ankub3088@gmail.com)' />
 
 </p>
-### ⚙️ GitHub:
 
 <table>
   <tr>
