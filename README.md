@@ -4,12 +4,13 @@
 
 
 
- ### Hi, my name is Andrey <a href="https://github.com/AnKub/Myresume" target="_blank">
-  <img src="https://img.shields.io/badge/-AnKub-black?style=flat&logoColor=white" alt="Full-Stack developer" />
-   </a> 
+ ### Hi, my name is Andrey
+ <a href="https://github.com/AnKub/Myresume" target="_blank">
+ <img src="https://img.shields.io/badge/-AnKub-black?style=flat&logoColor=white" alt="Full-Stack developer" />
+ </a> 
 
 
-<p align="right">Relatively recently I began to be interested in IT (2 years+), <br> now I can’t imagine an alternative.</p>
+<p align="left">Relatively recently I began to be interested in IT (2 years+), <br> now I can’t imagine an alternative.</p>
 
 
 
