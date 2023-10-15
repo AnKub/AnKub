@@ -65,7 +65,7 @@ Relatively recently I began to be interested in IT (2 years+), now I can’t ima
   </tr>
 </table>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AnKub) 
+[Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AnKub) 
 
 
 
