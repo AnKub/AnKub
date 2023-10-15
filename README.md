@@ -1,18 +1,8 @@
 ### Hi there 👋, my name is Andrey
 #### Full-Stack developer
-![Full-Stack developer]
+
 
 Relatively recently I began to be interested in IT (2 years+), now I can’t imagine an alternative.
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AnKub)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnKub)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AnKub)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=AnKub)  
-
-
 
 <p align="center">
  
@@ -59,22 +49,23 @@ Relatively recently I began to be interested in IT (2 years+), now I can’t ima
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
-<!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
-<a href="mailto: ankub3088@gmail.com">
- <img src="https://img.shields.io/badge/-AnKub-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ankub3088@gmail.com"/>
-</a>
-<!-- <a href="https://www.linkedin.com/in/ritik-rawal-698a18142/">
- <img src="https://img.shields.io/badge/-ritikrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
-</a> -->
+[![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AnKubLXXXVIII) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ankub3088@gmail.com)
 
 </p>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AnKub)  
+### ⚙️ GitHub:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnKub)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=AnKub&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnKub&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AnKub)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=AnKub)  
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AnKub) 
 
 
 
