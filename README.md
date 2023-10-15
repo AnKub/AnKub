@@ -3,25 +3,15 @@
 
 
 
-<p align="center">
+<p align="center" color="purple">
  ### Hi there 👋, my name is Andrey
 #### Full-Stack developer
-</p>
+</p align="center" >
 <p align="right">
 Relatively recently I began to be interested in IT (2 years+), <br> now I can’t imagine an alternative.
-</p>
+</p align="right">
 
 
-
-
-<p align="center">
- 
- <img src="https://badges.pufler.dev/visits/AnKub/AnKub"/> 
- <img src="https://badges.pufler.dev/years/AnKub"/>
- <img src="https://badges.pufler.dev/repos/AnKub"/>
- <img src="https://badges.pufler.dev/commits/monthly/AnKub" />
-
-</p>
 
 
 <h2 align="center">Technology Stack <img src="https://github.com/AnKub/AnKub/blob/main/images/laptop.gif" color="purple" width="50"></h2>
@@ -51,7 +41,7 @@ Relatively recently I began to be interested in IT (2 years+), <br> now I can’
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
-[![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AnKubLXXXVIII) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ankub3088@gmail.com)
+[Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AnKubLXXXVIII) [Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ankub3088@gmail.com)
 
 </p>
 ### ⚙️ GitHub:
@@ -67,7 +57,14 @@ Relatively recently I began to be interested in IT (2 years+), <br> now I can’
   </tr>
 </table>
 
-[Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AnKub) 
+<p align="center">
+ 
+ <img src="https://badges.pufler.dev/visits/AnKub/AnKub"/> 
+ <img src="https://badges.pufler.dev/years/AnKub"/>
+ <img src="https://badges.pufler.dev/repos/AnKub"/>
+ <img src="https://badges.pufler.dev/commits/monthly/AnKub" />
+
+</p>
 
 
 
