@@ -41,9 +41,12 @@ Relatively recently I began to be interested in IT (2 years+), <br> now I can’
 <h2 align="center" color="purple">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
-[Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AnKubLXXXVIII) 
- <img src= 'https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)(mailto:ankub3088@gmail.com)' />
-
+   <a href="https://t.me/AnKubLXXXVIII" target="_blank">
+  <img src="https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white" alt="AnKub" />
+   </a> 
+   <a href="mailto:ankub3088@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" alt="AnKub" />
+   </a> 
 </p>
 
 <table>
