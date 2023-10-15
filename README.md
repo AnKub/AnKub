@@ -1,3 +1,19 @@
+### Hi there 👋, my name is Andrey
+#### Full-Stack developer
+![Full-Stack developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+Relatively recently I began to be interested in IT (2 years+), now I can’t imagine an alternative.
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AnKub)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnKub)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AnKub)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=AnKub)  
+
+
+
 <p align="center">
  
 </p align="center">
