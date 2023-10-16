@@ -1,14 +1,17 @@
-</p align="center">
-<img src="https://github.com/AnKub/AnKub/blob/main/back.png" />
 
 <p align="center">
- 
+<img src="https://github.com/AnKub/AnKub/blob/main/back.png" />
+</p align="center">
+
+
+<p align="left"> 
  <a href="https://github.com/AnKub/Myresume" target="_blank">
  <img src="https://img.shields.io/badge/-AnKub-black?style=flat&logoColor=white" alt="Full-Stack developer" />
  </a> 
+ </p align="left">
 
 
-<p align="left">Relatively recently I began to be interested in IT (2 years+), <br> now I can’t imagine an alternative.</p>
+<p align="right">Relatively recently I began to be interested in IT (2 years+), <br> now I can’t imagine an alternative.</p>
 
 
 
