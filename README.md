@@ -1,5 +1,8 @@
+</p align="center">
+<img src="https://github.com/AnKub/Ankub/main/back.png" />
 
- ### Hi, my name is Andrey
+<p align="center">
+ 
  <a href="https://github.com/AnKub/Myresume" target="_blank">
  <img src="https://img.shields.io/badge/-AnKub-black?style=flat&logoColor=white" alt="Full-Stack developer" />
  </a> 
