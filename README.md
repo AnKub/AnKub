@@ -1,6 +1,6 @@
 
-<a href="[https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFxa6e2rUA&#x2F;view?utm_content=DAFxa6e2rUA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener](https://www.canva.com/design/DAFxa6e2rUA/view)">Black Minimalist Corporate Professional Profile LinkedIn Banner
-</a>
+[https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFxa6e2rUA&#x2F;view?utm_content=DAFxa6e2rUA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener](https://www.canva.com/design/DAFxa6e2rUA/view)">Black Minimalist Corporate Professional Profile LinkedIn Banner
+
 
 
 
