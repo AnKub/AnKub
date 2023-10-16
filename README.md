@@ -51,9 +51,12 @@
 <p align="center">
    <a href="https://t.me/AnKubLXXXVIII" target="_blank">
   <img src="https://img.shields.io/badge/-AnKub-blue?style=flat&logo=Telegram&logoColor=white" alt="AnKub" />
-   </a> 
+   </a>  
    <a href="https://ankub3088@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" alt="AnKub" />
+   </a> 
+   <a href="www.linkedin.com/in/ankub88" target="_blank">
+  <img src="https://img.shields.io/badge/-AnKub-blue?style=flat&logo=LinkedIn&logoColor=white" alt="AnKub" />
    </a> 
 </p>
 
