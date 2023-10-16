@@ -11,33 +11,29 @@
 <table align="center" border="3px solid">
   <tr>  
       <p align="left"> <b color="red"> Relatively recently I began to be interested in IT (2 years+), <br> now I can’t imagine an alternative </b> </p> </tr>
-    <td> 
-     <p align="left">     
+  <td> 
+       <p align="center">     
       <a href="https://github.com/AnKub/Myresume" target="_blank">
         <img src="https://img.shields.io/badge/-AnKub-purple?style=flat&logo=GitHub&logoColor=white" alt="Full-Stack developer" />
       </a> 
-     </p align="left">
-    </td>
-       <td>          
-         <p align="left">
+     </p>        
+         <p align="center">
            <a href="https://t.me/AnKubLXXXVIII" target="_blank">
             <img src="https://img.shields.io/badge/-AnKub-blue?style=flat&logo=Telegram&logoColor=white" alt="AnKub" />
          </a> 
-      </p align="left"> 
-    </td> 
-      <td>          
-         <p align="left">
+      </p> 
+    </td>
+       <td>  
+        <p align="center">
            <a href="https://ankub3088@gmail.com">
              <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" alt="AnKub" />
            </a> 
-        </p align="left">
-      </td>
-       <td>      
-        <p align="left">
+        </p>    
+        <p align="center">
           <a href="www.linkedin.com/in/ankub88" target="_blank">
            <img src="https://img.shields.io/badge/-AnKub-blue?style=flat&logo=LinkedIn&logoColor=white" alt="AnKub" />
         </a> 
-     </p align="left">
+     </p>
     </td>     
        <td align="center">     
        <p><img src="https://badges.pufler.dev/repos/AnKub"/> </p> 
