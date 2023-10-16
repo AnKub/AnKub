@@ -1,5 +1,5 @@
 </p align="center">
-<img src="https://github.com/AnKub/Ankub/main/back.png" />
+<img src="https://github.com/AnKub/AnKub/blob/main/back.png" />
 
 <p align="center">
  
