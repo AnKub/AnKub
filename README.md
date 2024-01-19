@@ -10,7 +10,7 @@
 
 <table align="center" border="3px solid">
   <tr>  
-      <p align="left"> <b color="red"> Relatively recently I began to be interested in IT (2 years+), <br> now I can’t imagine an alternative </b> </p> </tr>
+      <p align="left"> <b color="red"> Full-stack developer with experience in web applications, specializing in JavaScript and React. My philosophy is not only to solve problems but also to create visually appealing interfaces, harmoniously combining aesthetics and efficiency. Ready for continuous learning with the goal of becoming an outstanding developer. </b> </p> </tr>
   <td> 
        <p align="center">     
       <a href="https://github.com/AnKub/Myresume" target="_blank">
