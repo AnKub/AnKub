@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/AnKub/AnKub/blob/main/back1.png"/>
+<img src="https://github.com/AnKub/AnKub/blob/main/1.png"/>
 </p align="center">
 <table align="center" border="3px solid">
   <tr>  
