@@ -3,7 +3,7 @@
 </p align="center">
 <table align="center" border="3px solid">
   <tr>  
-      <p align="reght"> <b color="blue"> Full-stack developer with experience in web applications, specializing in JavaScript and React. My philosophy is not only to solve problems but also to create visually appealing interfaces, harmoniously combining aesthetics and efficiency. Ready for continuous learning with the goal of becoming an outstanding developer. </b> </p> </tr>
+      <p align="reght"> <b color="blue"> My skills may not be flawless, but my dedication and passion for development drive me forward </b> </p> </tr>
   <td> 
        <p align="center">     
       <a href="https://github.com/AnKub/Myresume" target="_blank">
