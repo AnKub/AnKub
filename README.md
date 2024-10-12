@@ -14,9 +14,7 @@
            <a href="https://t.me/AnKubLXXXVIII" target="_blank">
             <img src="https://img.shields.io/badge/-AnKub-blue?style=flat&logo=Telegram&logoColor=white" alt="AnKub" />
          </a> 
-      </p> 
-    </td>
-       <td>  
+      </p>   
         <p align="center">
            <a href="https://ankub3088@gmail.com">
              <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" alt="AnKub" />
