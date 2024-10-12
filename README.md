@@ -34,7 +34,7 @@
     </td>
      <td>   
           <div align="center">
-       <img src="https://www.codewars.com/users/AnKub/badges/small";
+       <img src="https://www.codewars.com/users/AnKub/badges/large";
          </div align="center"> 
       <div align="center">
              <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" **alt="NPM" width="40" height="40"/>&nbsp;
